@@ -1,0 +1,40 @@
+/* @keyframes example{
+    0%{background-color: red; left: 0px; top: 0px;}
+    25%{background-color: yellow; left: 200px; top: 0px;}
+    50%{background-color: blue; left: 200px; top: 200px;}
+    75%{background-color: green; left: 0px; top: 200px;}
+    100%{background-color: red; left: 0px; top: 0px;}
+}
+div{
+    width: 100px;
+    height: 100px;
+    position: relative;
+    background-color: red;
+    animation-name: example;
+    animation-duration: 3s;
+    animation-delay: 2s;
+    animation-fill-mode: both;
+}  */ */
+/* @media only screen and (orientation:landscape){
+    {background-color: red;}
+ }
+@media only screen and(max-width:600px){
+    body{background-color: lightblue;}
+} */
+/* @media only screen and (min-width: 600px) {
+    .mediatest{
+        background-color: red;
+        height: 200px;
+        width: 50%;
+        margin-left: 25%;
+        margin-top: 50px;
+    }
+}
+@media only screen and (max-width:600px){
+    .mediatest{
+        background-color: green;
+        height: 200px;
+        width: 80%;
+        margin-left: 10%;
+        margin-top: 60px;
+}
