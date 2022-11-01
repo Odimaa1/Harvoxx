@@ -589,10 +589,10 @@ footer form{
     transition: all ease-in-out 0.3s;;
 }
 .back-to-top i{
-    font-size: 24px;
+    font-size: 18px;
     position: absolute;
-    top: 8px;
-    left: 8px;
+    top: 10px;
+    left: 10px;
 }
 
 @media (max-width: 1000px){
